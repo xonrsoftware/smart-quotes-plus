@@ -1,3 +1,4 @@
 'atom-text-editor':
   "ctrl-alt-'": 'smart-quotes-plus:smartreplace'
   "shift-alt-'": 'smart-quotes-plus:dumbreplace'
+  "ctrl-alt-<": 'smart-quotes-plus:shiftsreplace'

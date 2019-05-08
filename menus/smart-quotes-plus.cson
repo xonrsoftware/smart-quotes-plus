@@ -7,6 +7,7 @@
         'submenu': [
           { 'label': 'Run Smart Replace', 'command': 'smart-quotes-plus:smartreplace' }
           { 'label': 'Run Dumb Replace', 'command': 'smart-quotes-plus:dumbreplace' }
+          { 'label': 'Replace << >> to «‎ »', 'command': 'smart-quotes-plus:shiftsreplace' }
         ]
       }
     ]
